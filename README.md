@@ -1,4 +1,4 @@
-Explanation of the algorithm and a working code examples can be found in the documentation
+Explanation of the algorithm can be found in the documentation
 
 
 To run the program type in the terminal:
